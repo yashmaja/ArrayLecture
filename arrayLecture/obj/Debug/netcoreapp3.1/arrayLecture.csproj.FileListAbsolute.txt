@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\bin\Debug\netcoreapp3.1\arrayLecture.exe
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\bin\Debug\netcoreapp3.1\arrayLecture.deps.json
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\bin\Debug\netcoreapp3.1\arrayLecture.runtimeconfig.json
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\bin\Debug\netcoreapp3.1\arrayLecture.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\bin\Debug\netcoreapp3.1\arrayLecture.dll
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\bin\Debug\netcoreapp3.1\arrayLecture.pdb
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.AssemblyInfo.cs
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.dll
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.pdb
+C:\Users\yashi\source\repos\arrayLecture\arrayLecture\obj\Debug\netcoreapp3.1\arrayLecture.genruntimeconfig.cache
