@@ -134,6 +134,38 @@ namespace arrayLecture
             {
                 Console.WriteLine(i);
             }
+
+            //Dictionaries
+            Dictionary<string, bool> tasty = new Dictionary<string, bool>();
+            tasty.Add("Pad Thai", true);
+            tasty.Add("Mustard", false);
+            Console.WriteLine(tasty["Pad Thai"]);
+            foreach(KeyValuePair<string, bool> kvp in tasty)
+            {
+                if (kvp.Value == true)
+                {
+                    Console.WriteLine($"{kvp.Key} is tasty!");
+                }
+                else
+                {
+                    Console.WriteLine($"{kvp.Key} is not tasty.");
+                }
+            }
+
+            //Hashtable
+            Hashtable phonebook = new Hashtable();
+            phonebook.Add("Pizza Hut", 1234567890);
+            phonebook.Add("Hungry Howies", 9999999999);
+            //line below is allowed but causes errors during runtime
+            //phonebook.Add("Litte Caesars", "987-654-3210");
+            string pizzaShop = "Dominos";
+            phonebook.Add(pizzaShop, "23534645634");
+
+            Console.WriteLine($"Pizza hut's number is: {phonebook["Pizza Hut"]}");
+            foreach(DictionaryEntry entry in phonebook)
+            {
+                Console.WriteLine($"{entry.Key} : {entry.Value}");
+            }
         }
     }
 }
